@@ -1,7 +1,7 @@
-//RTA No Load plugin v2.0 by B3.
+//RTA No Load plugin v2.0 by B3 (updated by Santzo).
 //supported game versions: 
-//  - 1.21.04
-//last updated: 11/12/17
+//  - 1.21.04, 1.21.05
+//last updated: 27.11.2019
 
 state("Nioh","1.21.04"){
     byte onMap : 0x2171030;
